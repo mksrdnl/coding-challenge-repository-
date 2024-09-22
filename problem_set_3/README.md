@@ -38,4 +38,5 @@ The solution uses dynamic programming to solve this problem:
 ## Instructions to Run the Code
 1. **Clone the repository**:
 https://github.com/mksrdnl/coding-challenge-repository-.git
-2. 
+2. Navigate to the problem folder: cd problem_set_3
+3. Compile/Run the code
