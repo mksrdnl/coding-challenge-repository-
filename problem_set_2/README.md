@@ -37,6 +37,7 @@ The algorithm ensures correct matching and order of the brackets, resulting in a
 
 ## Instructions to Run the Code
 1. **Clone the repository**:
-   ```bash
 https://github.com/mksrdnl/coding-challenge-repository-.git
+2. Navigate to the problem folder: cd problem_set_1
+3. Compile/Run the code
 
